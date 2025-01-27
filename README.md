@@ -10,19 +10,20 @@ Hi everyone! I’m **Kamel**, a Master's student in Computer Science studying at
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][0] | ✉️ [Email][1] | 💬 [GitHub Issues][2] – I’m happy to connect and collaborate!
+[LinkedIn][0] | ✉️ [Email][1] | – I’m happy to connect and collaborate!
 
 ---
 
 ## 💡 What I’m Currently Working On...
 - **(in progress)** **Master's Thesis:** Focused on developing custom deep learning architectures for object detection.  
 - **(in progress)** **Software Projects:**  
-  - Point cloud visualization using OpenCV and C++ (Visual Studio).  
-  - Neural network implementations and training using PyTorch.  
-  - Image and signal processing (noise removal, vanishing points estimation, RANSAC).  
+  - Point cloud visualization using OpenCV and C++.  
+  - EMR Software healthcare solution Medvizor
 - **(completed)**
 - Research on sound signal processing
-- Advanced Java architecture for secure software.  
+- Advanced Java architecture for secure software.
+- Neural network implementations and training using PyTorch.  
+- Image and signal processing (noise removal, vanishing points estimation, RANSAC).  
 
 ---
 
