@@ -20,7 +20,9 @@ Hi everyone! I’m **Kamel**, a Master's student in Computer Science studying at
   - Point cloud visualization using OpenCV and C++ (Visual Studio).  
   - Neural network implementations and training using PyTorch.  
   - Image and signal processing (noise removal, vanishing points estimation, RANSAC).  
-- **(completed)** Research on sound signal processing and advanced Java architecture for secure software.  
+- **(completed)**
+- Research on sound signal processing
+- Advanced Java architecture for secure software.  
 
 ---
 
@@ -33,9 +35,9 @@ Hi everyone! I’m **Kamel**, a Master's student in Computer Science studying at
 
 ## 📚 Articles and Projects
 
-**[Explore my projects and articles on GitHub 📖][3]**
+**[A Developer's Experience with the KrakenD Gateway 📖][3]**
 
-[0]: https://www.linkedin.com/in/your-profile
-[1]: mailto:your-email@example.com
+[0]: https://www.linkedin.com/in/kamel-htira-742204205/
+[1]: mailto:kamel2htira@gmail.com
 [2]: https://github.com/your-github-profile/issues
-[3]: https://github.com/your-github-profile
+[3]: https://www.linkedin.com/pulse/developers-experience-krakend-gateway-kamel-htira-0ywqf/?trackingId=xfBzNXvnRIKrdvpPr27ATA%3D%3D
